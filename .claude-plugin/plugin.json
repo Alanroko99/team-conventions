@@ -1,0 +1,11 @@
+{
+  "name": "team-conventions",
+  "version": "0.1.0",
+  "description": "Language-agnostic team coding conventions: teaches Claude the rules while it writes code, audits changes against them on demand, and generates the team's CONVENTIONS.md.",
+  "author": {
+    "name": "Saurios X",
+    "email": "sauriosx@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["conventions", "code-style", "code-review", "standards", "onboarding"]
+}

@@ -1,0 +1,6 @@
+.claude/*.local.md
+.DS_Store
+node_modules/
+
+# Contexto confidencial de Saurios X: vive en el repo privado saurios-x
+contexto/

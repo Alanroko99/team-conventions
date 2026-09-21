@@ -1,0 +1,16 @@
+{
+  "name": "team-conventions-marketplace",
+  "owner": {
+    "name": "Saurios X",
+    "email": "sauriosx@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "team-conventions",
+      "source": "./",
+      "description": "Language-agnostic team coding conventions: Claude follows them while writing, /convention-check audits changes against them, /conventions-init writes them down.",
+      "category": "code-quality",
+      "keywords": ["conventions", "code-style", "code-review", "standards", "onboarding"]
+    }
+  ]
+}
